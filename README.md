@@ -41,16 +41,15 @@ Each table is designed to reflect the main elements of the tale of the Three Lit
 ## CRUD and tables
 Below are the tables that are imported from the database and dynamically changed on the site when you click on the "Add", "Modify", "Delete" buttons. 
 
-<img width="1420" alt="redactor1" src="https://github.com/n-gheorghiev/tale-with-crud/assets/126828425/25734a96-b3de-42b2-b36f-3a807be42922">
+<img width="1421" alt="editor1" src="https://github.com/n-gheorghiev/tale-with-crud/assets/126828425/2fac8d91-c877-4990-b1f5-6bb835c00868">
 
-<img width="1421" alt="redactor2" src="https://github.com/n-gheorghiev/tale-with-crud/assets/126828425/465141d3-1d6d-4e3d-b4e8-ef41338841e9">
+<img width="1421" alt="editor2" src="https://github.com/n-gheorghiev/tale-with-crud/assets/126828425/29f2bb40-4351-4fa6-a1c4-e227c6082907">
 
-<img width="1421" alt="redactor3" src="https://github.com/n-gheorghiev/tale-with-crud/assets/126828425/2a6910c2-d0e0-46cc-b8a4-7521422b28ae">
+<img width="1418" alt="editor3" src="https://github.com/n-gheorghiev/tale-with-crud/assets/126828425/4aece48a-ba80-44d4-895b-f99442bb6707">
 
-<img width="1420" alt="redactor4" src="https://github.com/n-gheorghiev/tale-with-crud/assets/126828425/bfce426b-67b1-4af7-b324-e39490d44457">
+<img width="1420" alt="editor4" src="https://github.com/n-gheorghiev/tale-with-crud/assets/126828425/cdda02dd-4898-47b1-a291-815262c97476">
 
-<img width="1419" alt="redactor5" src="https://github.com/n-gheorghiev/tale-with-crud/assets/126828425/7f2e79e9-1dd7-4084-b3f6-445ada47cae8">
-
+<img width="1421" alt="editor5" src="https://github.com/n-gheorghiev/tale-with-crud/assets/126828425/0a50c0ef-6715-4815-9e54-cb74578304d7">
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
